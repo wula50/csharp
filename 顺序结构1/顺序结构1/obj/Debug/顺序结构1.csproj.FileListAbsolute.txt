@@ -1,0 +1,6 @@
+c:\users\air\documents\visual studio 2012\Projects\顺序结构1\顺序结构1\bin\Debug\顺序结构1.exe.config
+c:\users\air\documents\visual studio 2012\Projects\顺序结构1\顺序结构1\bin\Debug\顺序结构1.exe
+c:\users\air\documents\visual studio 2012\Projects\顺序结构1\顺序结构1\bin\Debug\顺序结构1.pdb
+c:\users\air\documents\visual studio 2012\Projects\顺序结构1\顺序结构1\obj\Debug\顺序结构1.csprojResolveAssemblyReference.cache
+c:\users\air\documents\visual studio 2012\Projects\顺序结构1\顺序结构1\obj\Debug\顺序结构1.exe
+c:\users\air\documents\visual studio 2012\Projects\顺序结构1\顺序结构1\obj\Debug\顺序结构1.pdb
