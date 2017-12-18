@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\例6.3\例6.3\bin\Debug\例6.3.exe.config
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\例6.3\例6.3\bin\Debug\例6.3.exe
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\例6.3\例6.3\bin\Debug\例6.3.pdb
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\例6.3\例6.3\obj\Debug\例6._3.Form1.resources
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\例6.3\例6.3\obj\Debug\例6._3.Properties.Resources.resources
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\例6.3\例6.3\obj\Debug\例6.3.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\例6.3\例6.3\obj\Debug\例6.3.exe
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\例6.3\例6.3\obj\Debug\例6.3.pdb

@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元3\例3.18\例3.18\bin\Debug\例3.18.exe.config
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元3\例3.18\例3.18\bin\Debug\例3.18.exe
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元3\例3.18\例3.18\bin\Debug\例3.18.pdb
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元3\例3.18\例3.18\obj\Debug\例3.18.exe
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元3\例3.18\例3.18\obj\Debug\例3.18.pdb
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元3\例3.18\例3.18\obj\Debug\例3.18.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元3\任务3.1\任务3.1\bin\Debug\任务3.1.exe.config
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元3\任务3.1\任务3.1\bin\Debug\任务3.1.exe
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元3\任务3.1\任务3.1\bin\Debug\任务3.1.pdb
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元3\任务3.1\任务3.1\obj\Debug\任务3.1.exe
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元3\任务3.1\任务3.1\obj\Debug\任务3.1.pdb

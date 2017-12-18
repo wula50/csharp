@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\TriStu\TriStu.DAL\bin\Debug\TriStu.DAL.dll
+C:\Users\Administrator\Desktop\TriStu\TriStu.DAL\bin\Debug\TriStu.DAL.pdb
+C:\Users\Administrator\Desktop\TriStu\TriStu.DAL\bin\Debug\TriStu.Models.dll
+C:\Users\Administrator\Desktop\TriStu\TriStu.DAL\bin\Debug\TriStu.Models.pdb
+C:\Users\Administrator\Desktop\TriStu\TriStu.DAL\obj\Debug\TriStu.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TriStu\TriStu.DAL\obj\Debug\TriStu.DAL.dll
+C:\Users\Administrator\Desktop\TriStu\TriStu.DAL\obj\Debug\TriStu.DAL.pdb

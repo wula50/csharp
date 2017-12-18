@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\项目实训6.2\项目实训6.2\bin\Debug\项目实训6.2.exe.config
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\项目实训6.2\项目实训6.2\obj\Debug\项目实训6.2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\项目实训6.2\项目实训6.2\obj\Debug\项目实训6._2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\项目实训6.2\项目实训6.2\obj\Debug\项目实训6.2.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\项目实训6.2\项目实训6.2\bin\Debug\项目实训6.2.exe
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\项目实训6.2\项目实训6.2\bin\Debug\项目实训6.2.pdb
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\项目实训6.2\项目实训6.2\obj\Debug\项目实训6.2.exe
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\项目实训6.2\项目实训6.2\obj\Debug\项目实训6.2.pdb
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\项目实训6.2\项目实训6.2\obj\Debug\项目实训6._2.Form2.resources
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\项目实训6.2\项目实训6.2\obj\Debug\项目实训6._2.Form1.resources

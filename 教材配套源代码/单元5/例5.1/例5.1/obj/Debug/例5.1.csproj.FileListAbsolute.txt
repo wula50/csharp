@@ -1,0 +1,18 @@
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\例5.1\例5.1\bin\Debug\例5.1.exe.config
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\例5.1\例5.1\bin\Debug\例5.1.exe
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\例5.1\例5.1\bin\Debug\例5.1.pdb
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\例5.1\例5.1\obj\Debug\例5.1.csprojResolveAssemblyReference.cache
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\例5.1\例5.1\obj\Debug\例5._1.FrmMain.resources
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\例5.1\例5.1\obj\Debug\例5._1.Properties.Resources.resources
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\例5.1\例5.1\obj\Debug\例5.1.csproj.GenerateResource.Cache
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\例5.1\例5.1\obj\Debug\例5.1.exe
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\例5.1\例5.1\obj\Debug\例5.1.pdb
+D:\01书稿\03C#程序设计_源代码\单元5\例5.1\例5.1\bin\Debug\例5.1.exe.config
+D:\01书稿\03C#程序设计_源代码\单元5\例5.1\例5.1\obj\Debug\例5.1.exe
+D:\01书稿\03C#程序设计_源代码\单元5\例5.1\例5.1\obj\Debug\例5.1.pdb
+D:\01书稿\03C#程序设计_源代码\单元5\例5.1\例5.1\bin\Debug\例5.1.exe
+D:\01书稿\03C#程序设计_源代码\单元5\例5.1\例5.1\bin\Debug\例5.1.pdb
+D:\01书稿\03C#程序设计_源代码\单元5\例5.1\例5.1\obj\Debug\例5.1.csprojResolveAssemblyReference.cache
+D:\01书稿\03C#程序设计_源代码\单元5\例5.1\例5.1\obj\Debug\例5._1.FrmMain.resources
+D:\01书稿\03C#程序设计_源代码\单元5\例5.1\例5.1\obj\Debug\例5._1.Properties.Resources.resources
+D:\01书稿\03C#程序设计_源代码\单元5\例5.1\例5.1\obj\Debug\例5.1.csproj.GenerateResource.Cache

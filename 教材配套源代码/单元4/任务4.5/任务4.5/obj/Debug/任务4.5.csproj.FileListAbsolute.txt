@@ -1,0 +1,11 @@
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\任务4.5\任务4.5\bin\Debug\任务4.5.exe.config
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\任务4.5\任务4.5\bin\Debug\任务4.5.exe
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\任务4.5\任务4.5\bin\Debug\任务4.5.pdb
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\任务4.5\任务4.5\obj\Debug\任务4.5.exe
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\任务4.5\任务4.5\obj\Debug\任务4.5.pdb
+D:\01书稿\03C#程序设计_源代码\单元4\任务4.5\任务4.5\bin\Debug\任务4.5.exe.config
+D:\01书稿\03C#程序设计_源代码\单元4\任务4.5\任务4.5\obj\Debug\任务4.5.exe
+D:\01书稿\03C#程序设计_源代码\单元4\任务4.5\任务4.5\obj\Debug\任务4.5.pdb
+D:\01书稿\03C#程序设计_源代码\单元4\任务4.5\任务4.5\bin\Debug\任务4.5.exe
+D:\01书稿\03C#程序设计_源代码\单元4\任务4.5\任务4.5\bin\Debug\任务4.5.pdb
+D:\01书稿\03C#程序设计_源代码\单元4\任务4.5\任务4.5\obj\Debug\任务4.5.csprojResolveAssemblyReference.cache

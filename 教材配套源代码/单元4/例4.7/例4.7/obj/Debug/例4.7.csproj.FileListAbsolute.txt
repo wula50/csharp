@@ -1,0 +1,9 @@
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\例4.7\例4.7\bin\Debug\例4.7.exe.config
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\例4.7\例4.7\bin\Debug\例4.7.exe
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\例4.7\例4.7\bin\Debug\例4.7.pdb
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\例4.7\例4.7\obj\Debug\例4.7.exe
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\例4.7\例4.7\obj\Debug\例4.7.pdb
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\例4.7\例4.7\obj\Debug\例4.7.csprojResolveAssemblyReference.cache
+D:\01书稿\03C#程序设计_源代码\单元4\例4.7\例4.7\bin\Debug\例4.7.exe.config
+D:\01书稿\03C#程序设计_源代码\单元4\例4.7\例4.7\obj\Debug\例4.7.exe
+D:\01书稿\03C#程序设计_源代码\单元4\例4.7\例4.7\obj\Debug\例4.7.pdb

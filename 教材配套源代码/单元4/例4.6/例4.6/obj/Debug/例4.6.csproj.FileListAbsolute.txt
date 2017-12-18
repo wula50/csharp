@@ -1,0 +1,3 @@
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\例4.6\例4.6\bin\Debug\例4.6.exe.config
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\例4.6\例4.6\obj\Debug\例4.6.csprojResolveAssemblyReference.cache
+D:\01书稿\03C#程序设计_源代码\单元4\例4.6\例4.6\bin\Debug\例4.6.exe.config

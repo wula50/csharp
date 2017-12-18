@@ -1,0 +1,24 @@
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\任务5.3\任务5.3\bin\Debug\MyNotepad.exe
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\任务5.3\任务5.3\bin\Debug\MyNotepad.pdb
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\任务5.3\任务5.3\obj\Debug\任务5.3.csprojResolveAssemblyReference.cache
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\任务5.3\任务5.3\obj\Debug\MyNotepad.frmAbout.resources
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\任务5.3\任务5.3\obj\Debug\MyNotepad.frmFind.resources
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\任务5.3\任务5.3\obj\Debug\MyNotepad.frmMain.resources
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\任务5.3\任务5.3\obj\Debug\MyNotepad.frmReplace.resources
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\任务5.3\任务5.3\obj\Debug\MyNotepad.Properties.Resources.resources
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\任务5.3\任务5.3\obj\Debug\MyNotepad.Resource1.resources
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\任务5.3\任务5.3\obj\Debug\任务5.3.csproj.GenerateResource.Cache
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\任务5.3\任务5.3\obj\Debug\MyNotepad.exe
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\任务5.3\任务5.3\obj\Debug\MyNotepad.pdb
+D:\01书稿\03C#程序设计_源代码\单元5\任务5.3\任务5.3\obj\Debug\MyNotepad.exe
+D:\01书稿\03C#程序设计_源代码\单元5\任务5.3\任务5.3\obj\Debug\MyNotepad.pdb
+D:\01书稿\03C#程序设计_源代码\单元5\任务5.3\任务5.3\bin\Debug\MyNotepad.exe
+D:\01书稿\03C#程序设计_源代码\单元5\任务5.3\任务5.3\bin\Debug\MyNotepad.pdb
+D:\01书稿\03C#程序设计_源代码\单元5\任务5.3\任务5.3\obj\Debug\任务5.3.csprojResolveAssemblyReference.cache
+D:\01书稿\03C#程序设计_源代码\单元5\任务5.3\任务5.3\obj\Debug\MyNotepad.frmAbout.resources
+D:\01书稿\03C#程序设计_源代码\单元5\任务5.3\任务5.3\obj\Debug\MyNotepad.frmFind.resources
+D:\01书稿\03C#程序设计_源代码\单元5\任务5.3\任务5.3\obj\Debug\MyNotepad.frmMain.resources
+D:\01书稿\03C#程序设计_源代码\单元5\任务5.3\任务5.3\obj\Debug\MyNotepad.frmReplace.resources
+D:\01书稿\03C#程序设计_源代码\单元5\任务5.3\任务5.3\obj\Debug\MyNotepad.Properties.Resources.resources
+D:\01书稿\03C#程序设计_源代码\单元5\任务5.3\任务5.3\obj\Debug\MyNotepad.Resource1.resources
+D:\01书稿\03C#程序设计_源代码\单元5\任务5.3\任务5.3\obj\Debug\任务5.3.csproj.GenerateResource.Cache

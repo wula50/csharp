@@ -1,0 +1,5 @@
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\例4.1\例4.1\bin\Debug\例4.1.exe.config
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\例4.1\例4.1\bin\Debug\例4.1.exe
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\例4.1\例4.1\bin\Debug\例4.1.pdb
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\例4.1\例4.1\obj\Debug\例4.1.exe
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\例4.1\例4.1\obj\Debug\例4.1.pdb

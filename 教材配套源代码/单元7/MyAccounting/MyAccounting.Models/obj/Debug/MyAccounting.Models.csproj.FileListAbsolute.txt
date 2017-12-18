@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\MyAccounting\MyAccounting.Models\bin\Debug\MyAccounting.Models.dll
+C:\Users\Administrator\Desktop\MyAccounting\MyAccounting.Models\bin\Debug\MyAccounting.Models.pdb
+C:\Users\Administrator\Desktop\MyAccounting\MyAccounting.Models\obj\Debug\MyAccounting.Models.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MyAccounting\MyAccounting.Models\obj\Debug\MyAccounting.Models.dll
+C:\Users\Administrator\Desktop\MyAccounting\MyAccounting.Models\obj\Debug\MyAccounting.Models.pdb
+C:\Users\Administrator\Desktop\C#教材编写\MyAccounting\MyAccounting.Models\bin\Debug\MyAccounting.Models.dll
+C:\Users\Administrator\Desktop\C#教材编写\MyAccounting\MyAccounting.Models\bin\Debug\MyAccounting.Models.pdb
+C:\Users\Administrator\Desktop\C#教材编写\MyAccounting\MyAccounting.Models\obj\Debug\MyAccounting.Models.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#教材编写\MyAccounting\MyAccounting.Models\obj\Debug\MyAccounting.Models.dll
+C:\Users\Administrator\Desktop\C#教材编写\MyAccounting\MyAccounting.Models\obj\Debug\MyAccounting.Models.pdb
+C:\Users\Administrator\Desktop\C#教材编写\new\第7单元\MyAccounting\MyAccounting.Models\bin\Debug\MyAccounting.Models.dll
+C:\Users\Administrator\Desktop\C#教材编写\new\第7单元\MyAccounting\MyAccounting.Models\bin\Debug\MyAccounting.Models.pdb
+C:\Users\Administrator\Desktop\C#教材编写\new\第7单元\MyAccounting\MyAccounting.Models\obj\Debug\MyAccounting.Models.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#教材编写\new\第7单元\MyAccounting\MyAccounting.Models\obj\Debug\MyAccounting.Models.dll
+C:\Users\Administrator\Desktop\C#教材编写\new\第7单元\MyAccounting\MyAccounting.Models\obj\Debug\MyAccounting.Models.pdb

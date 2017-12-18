@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\例6.4\例6.4\bin\Debug\例6.4.exe.config
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\例6.4\例6.4\bin\Debug\例6.4.exe
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\例6.4\例6.4\bin\Debug\例6.4.pdb
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\例6.4\例6.4\obj\Debug\例6.4.exe
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\例6.4\例6.4\obj\Debug\例6.4.pdb
+D:\C#程序设计\单元6\例6.4\例6.4\bin\Debug\例6.4.exe.config
+D:\C#程序设计\单元6\例6.4\例6.4\obj\Debug\例6.4.exe
+D:\C#程序设计\单元6\例6.4\例6.4\obj\Debug\例6.4.pdb
+D:\C#程序设计\单元6\例6.4\例6.4\bin\Debug\例6.4.exe
+D:\C#程序设计\单元6\例6.4\例6.4\bin\Debug\例6.4.pdb

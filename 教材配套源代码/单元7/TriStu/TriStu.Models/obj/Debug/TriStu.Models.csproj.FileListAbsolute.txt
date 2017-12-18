@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\TriStu\TriStu.Models\bin\Debug\TriStu.Models.dll
+C:\Users\Administrator\Desktop\TriStu\TriStu.Models\bin\Debug\TriStu.Models.pdb
+C:\Users\Administrator\Desktop\TriStu\TriStu.Models\obj\Debug\TriStu.Models.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TriStu\TriStu.Models\obj\Debug\TriStu.Models.dll
+C:\Users\Administrator\Desktop\TriStu\TriStu.Models\obj\Debug\TriStu.Models.pdb

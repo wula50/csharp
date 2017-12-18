@@ -1,0 +1,2 @@
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\例4.11\例4.11\bin\Debug\例4.11.exe.config
+D:\01书稿\03C#程序设计_源代码\单元4\例4.11\例4.11\bin\Debug\例4.11.exe.config

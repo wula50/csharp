@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\任务6.1\任务6.1\bin\Debug\任务6.1.exe.config
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\任务6.1\任务6.1\bin\Debug\任务6.1.exe
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\任务6.1\任务6.1\bin\Debug\任务6.1.pdb
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\任务6.1\任务6.1\obj\Debug\任务6.1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\任务6.1\任务6.1\obj\Debug\任务6._1.Form1.resources
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\任务6.1\任务6.1\obj\Debug\任务6._1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\任务6.1\任务6.1\obj\Debug\任务6.1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\任务6.1\任务6.1\obj\Debug\任务6.1.exe
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\任务6.1\任务6.1\obj\Debug\任务6.1.pdb

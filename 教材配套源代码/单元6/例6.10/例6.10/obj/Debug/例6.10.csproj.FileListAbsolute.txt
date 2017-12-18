@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\例6.10\例6.10\bin\Debug\例6.10.exe.config
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\例6.10\例6.10\obj\Debug\例6._10.Form1.resources
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\例6.10\例6.10\obj\Debug\例6._10.Properties.Resources.resources
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\例6.10\例6.10\obj\Debug\例6.10.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\例6.10\例6.10\bin\Debug\例6.10.exe
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\例6.10\例6.10\bin\Debug\例6.10.pdb
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\例6.10\例6.10\obj\Debug\例6.10.exe
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\例6.10\例6.10\obj\Debug\例6.10.pdb
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元6\例6.10\例6.10\obj\Debug\例6.10.csprojResolveAssemblyReference.cache

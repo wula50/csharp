@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元3\例3.5\例3.5\bin\Debug\例3.5.exe.config
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元3\例3.5\例3.5\bin\Debug\例3.5.exe
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元3\例3.5\例3.5\bin\Debug\例3.5.pdb
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元3\例3.5\例3.5\obj\Debug\例3.5.exe
+C:\Users\Administrator\Desktop\01书稿0804\03C#程序设计_源代码\单元3\例3.5\例3.5\obj\Debug\例3.5.pdb

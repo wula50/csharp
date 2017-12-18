@@ -1,0 +1,5 @@
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\文档\Visual Studio 2012\Projects\C#程序设计源代码\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
