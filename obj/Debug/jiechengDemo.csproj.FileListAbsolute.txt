@@ -1,6 +1,0 @@
-D:\文档\Visual Studio 2012\Projects\jiechengDemo\jiechengDemo\bin\Debug\jiechengDemo.exe.config
-D:\文档\Visual Studio 2012\Projects\jiechengDemo\jiechengDemo\bin\Debug\jiechengDemo.exe
-D:\文档\Visual Studio 2012\Projects\jiechengDemo\jiechengDemo\bin\Debug\jiechengDemo.pdb
-D:\文档\Visual Studio 2012\Projects\jiechengDemo\jiechengDemo\obj\Debug\jiechengDemo.csprojResolveAssemblyReference.cache
-D:\文档\Visual Studio 2012\Projects\jiechengDemo\jiechengDemo\obj\Debug\jiechengDemo.exe
-D:\文档\Visual Studio 2012\Projects\jiechengDemo\jiechengDemo\obj\Debug\jiechengDemo.pdb
